@@ -1,4 +1,4 @@
-sen:
+BNDA_SEN_2008:
   source: https://geoportal.un.org/arcgis/sharing/rest/content/items/3b628266c28345ecbcac152255eba4be/data
   minzoom: 1
   maxzoom: 5
